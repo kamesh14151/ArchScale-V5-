@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+*.log
+.local/
+.local-test-db/
+.vitest/
+node_modules/.vite/
+supabase/.branches/
+supabase/.temp/
+
+.vercel
+.env*
